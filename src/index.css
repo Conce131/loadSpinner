@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 10em;
+  background-color: plum;
 }
 
 .box {
